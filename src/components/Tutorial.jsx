@@ -40,7 +40,7 @@ const Tutorial = () => {
         {/* Image 3 */}
         <div className="image-wrapper">
           <Image
-            src="/images/image3.svg" // Updated path
+            src="/images/Image3.svg" // Updated path
             width={450}
             height={550}
             alt="Image 3"
@@ -49,7 +49,7 @@ const Tutorial = () => {
         {/* Image 4 */}
         <div className="image-wrapper">
           <Image
-            src="/images/image4.svg" // Updated path
+            src="/images/Image4.svg" // Updated path
             width={450}
             height={550}
             alt="Image 4"
