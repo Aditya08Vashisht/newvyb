@@ -31,7 +31,7 @@ const Footer = () => {
           {text}
           <button className="absolute right-4">
             <Image
-              src="/images/icon.svg" // Updated path to the image in the public/images directory
+              src="/images/Icon.svg" // Updated path to the image in the public/images directory
               alt="icon"
               width={24} // Adjust size as needed
               height={24} // Adjust size as needed
